@@ -1,0 +1,11 @@
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\obj\Debug\Cinabarium.CAFIPE.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.BLL.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.BLL.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.DAL.SqlServer.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.Dataservare.SqlServer.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.Dataservare.SqlServer.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.DAL.SqlServer.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\bin\Debug\Cinabarium.CAFIPE.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\obj\Debug\Cinabarium.CAFIPE.BLL.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.BLL\obj\Debug\Cinabarium.CAFIPE.BLL.pdb

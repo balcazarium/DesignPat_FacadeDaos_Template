@@ -1,0 +1,5 @@
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAF\bin\Debug\Cinabarium.CAFIPE.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAF\bin\Debug\Cinabarium.CAFIPE.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAF\obj\Debug\Cinabarium.CAFIPE.csprojResolveAssemblyReference.cache
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAF\obj\Debug\Cinabarium.CAFIPE.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAF\obj\Debug\Cinabarium.CAFIPE.pdb

@@ -1,0 +1,4 @@
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DataAccess\bin\Debug\Cinabarium.CAFIPE.DataAccess.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DataAccess\bin\Debug\Cinabarium.CAFIPE.DataAccess.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DataAccess\obj\Debug\Cinabarium.CAFIPE.DataAccess.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DataAccess\obj\Debug\Cinabarium.CAFIPE.DataAccess.pdb

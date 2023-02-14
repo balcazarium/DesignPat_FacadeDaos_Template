@@ -1,0 +1,9 @@
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\obj\Debug\Cinabarium.CAFIPE.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.CAFIPE.DAL.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.CAFIPE.DAL.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.CAFIPE.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.Dataservare.SqlServer.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.Dataservare.SqlServer.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\bin\Debug\Cinabarium.CAFIPE.pdb
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\obj\Debug\Cinabarium.CAFIPE.DAL.dll
+C:\Users\Smart\Documents\TEMP\A\CAFIPE\Code\Cinabarium.CAFIPE.DAL\obj\Debug\Cinabarium.CAFIPE.DAL.pdb
